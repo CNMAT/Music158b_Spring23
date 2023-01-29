@@ -22,12 +22,12 @@ Music 158b will explore instrument design and musical expression through a pract
 Course Goals
 -----------------
 
-Over the semester students will build hybrid physical and software-based musical instruments and focus on workshoping performance. The course will incorporate foundational skills including sensors, signal input, amplification, signal processing, interface design, systems aesthetics, and artistic output. The class will culminate with a final public installation and performance with the instruments built over the course of the semester. 
+Over the semester students will build hybrid physical and software-based musical instruments and focus on  workshopping performance. The course will incorporate foundational skills including sensors, signal input, amplification, signal processing, interface design, systems aesthetics, and artistic output. The class will culminate with a final public installation and performance with the instruments built over the course of the semester. 
 
 Final Project Presentations
 ---------------------------
 
-Music 158B/258B students do not take a  standardized final exam. In lieu of a standardized final exam, students work in groups to create final projects applying the skills and techniques developed in class.  Final projects will be submitted as video documentation and technical materials by the scheduled exam date and will be presented to the public at a class performance installation.
+Music 158B/258B students do not take a  standardized final exam. In lieu of a standardized final exam, students work alone or in groups to create final projects and performance applying the skills and techniques developed in class.  Final projects will be submitted as video documentation and technical materials by the scheduled exam date and will be presented to the public at a class performance installation.
 
 Music 258B students will be required to create a final project that is appropriate to the graduate level of study in music composition. The specifics of the requirement will be discussed and agreed upon by the instructor in consultation with each individual student. Graduate students from outside the Music Department can opt to take Music 158B instead of Music 258B, but graduate students in the Department of Music must take Music 258B.
 
