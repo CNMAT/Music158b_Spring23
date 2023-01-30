@@ -72,21 +72,21 @@ Schedule
 | *Week 4* 02/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
 | *Week 5* 02/24     | Lecture and open discussion: Activating the environment, mechatronic sound, speaker coils, digital signal processing. |
 | *Week 5* 02/24     | Discussion / Critique: How do these output devices relate to the performance experience? How well does the range of values relate to the gesture of output? How do the names of output processes change the way we think about them? |
-| *Week 6* 03/03     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring22/blob/main/Lab_2.pdf) |
+| *Week 6* 03/03     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
 | *Week 6* 03/03     | Linda Bouchard and Jeff Lubow presenting their Ocular Scores Morphograph |
 | *Week 7* 03/10     | Lecture: Learning to play an unknown instrument by moving between exploratory “babbling” to build a catalog of repeatable figures — this may change each time you sit down to play. |
 | *Week 7* 03/10     | Discussion / Critique: What was your experience improvising with your teammates’ mappings? What was intuitive and counterintuitive? What makes a successful mapping? |
-| *Week 8* 03/17     | **Open Performance 3** |
+| *Week 8* 03/17     | Lecture: How the instrument’s tactile, and response effects experience; towards extended appendages. “Dipping” as a way to test repeatability. |
 | *Week 8* 03/17     | Demo - Spatialized Audio Main Room |
-| *Week 9* 03/24     | Lecture: How the instrument’s tactile, and response effects experience; towards extended appendages. “Dipping” as a way to test repeatability. |
+| *Week 9* 03/24     | **Open Performance 3** (https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)|
 | *Week 9* 03/24     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
-| *Week 11* 04/07    | **Open Performance 3** **Final Proposal Due** |
+| *Week 11* 04/07    | **Final Proposal Due** |
 | *Week 11* 04/07    | Discussion: Contrapuntal textures in time-based arts. Micro-gestures, Polyphonies of movement and their affect on our perception of sound.How does the resulting musical texture effect the experience of performance? Describe your experience of gesture in contrast to the sounding results. |
 | *Week 12* 04/14    | Group Work Session / Workshop |
 | *Week 12* 04/14    | Strategies for flexibility, modes vs statelessness; found content vs composed embedded content. How does the instrument modality effect the performer’s gesture and musical use of the instrument? Which aspects of performance gesture and sounding results create a sense of musical progression and change? Compare modalities between your instruments and those of other electronic and acoustic instrument |
-| *Week 13* 04/21    | Group Work Session / Workshop |
+| *Week 13* 04/21    | **Possible Open Performance 4** Group Work Session / Workshop |
 | *Week 13* 04/21    | Discussion / Critique: Describe the experience of performing with different physical and data mediated “feels.” Which gestures were easier to accomplish, which were more difficult?How does the situation surrounding the gesture effect the experience of the performer versus the audience? |
 | *Week 14* 04/28    | Group Work Session / Workshop |
 | *Week 14* 04/28    | Project Discussion / Critique : Show work in Progress |
