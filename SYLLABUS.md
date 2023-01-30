@@ -66,7 +66,7 @@ Schedule
 | *Week 1* 01/27     | Andrew in France |
 | *Week 2* 02/03     | Demo 1 - Build a Mic |
 | *Week 2* 02/03     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
-| *Week 3* 02/10     |   |
+| *Week 3* 02/10     | Discussion / Critique: Building at the edge of perception and software as a medium |
 | *Week 3* 02/10     | Open Lab Prototype Performance 1 |
 | *Week 4* 02/17     | Demo - Transduction - Drum Solenoids |
 | *Week 4* 02/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
