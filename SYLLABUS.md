@@ -78,7 +78,7 @@ Schedule
 | *Week 7* 03/10     | Discussion / Critique: What was your experience improvising with your teammates’ mappings? What was intuitive and counterintuitive? What makes a successful mapping? |
 | *Week 8* 03/17     | Lecture: How the instrument’s tactile, and response effects experience; towards extended appendages. “Dipping” as a way to test repeatability. |
 | *Week 8* 03/17     | Demo - Spatialized Audio Main Room |
-| *Week 9* 03/24     | **Open Performance 3** (https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)|
+| *Week 9* 03/24     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)|
 | *Week 9* 03/24     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
