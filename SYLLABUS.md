@@ -63,23 +63,23 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 01/20     | Andrew in France |
-| *Week 1* 01/27     | Andrew in France |
+| *Week 1* 01/27     | Class Introduction |
 | *Week 2* 02/03     | Demo 1 - Build a Mic |
 | *Week 2* 02/03     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
 | *Week 3* 02/10     | Discussion / Critique: Building at the edge of perception and software as a medium |
 | *Week 3* 02/10     | Open Lab Prototype Performance 1 |
 | *Week 4* 02/17     | Demo - Transduction - Drum Solenoids |
 | *Week 4* 02/17     | [**Open Performance 1**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_1.pdf) |
-| *Week 5* 02/24     | Lecture and open discussion: Activating the environment, mechatronic sound, speaker coils, digital signal processing. |
+| *Week 5* 02/24     | Open Discussion: Activating the environment, mechatronic sound, speaker coils, digital signal processing. |
 | *Week 5* 02/24     | Discussion / Critique: How do these output devices relate to the performance experience? How well does the range of values relate to the gesture of output? How do the names of output processes change the way we think about them? |
-| *Week 6* 03/03     | Lecture: Learning to play an unknown instrument by moving between exploratory “babbling” to build a catalog of repeatable figures — this may change each time you sit down to play. |
+| *Week 6* 03/03     | Open Discussion: Learning to play an unknown instrument by moving between exploratory “babbling” to build a catalog of repeatable figures — this may change each time you sit down to play. |
 | *Week 6* 03/03     | Linda Bouchard and Jeff Lubow presenting their Ocular Scores Morphograph |
-| *Week 7* 03/10     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
 | *Week 7* 03/10     | Discussion / Critique: What was your experience improvising with your teammates’ mappings? What was intuitive and counterintuitive? What makes a successful mapping? |
+| *Week 7* 03/10     | [**Open Performance 2**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_2.pdf) |
 | *Week 8* 03/17     | Lecture: How the instrument’s tactile, and response effects experience; towards extended appendages. “Dipping” as a way to test repeatability. |
 | *Week 8* 03/17     | Demo - Spatialized Audio Main Room |
-| *Week 9* 03/24     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf)|
 | *Week 9* 03/24     | Discussion / Critique: How do these input devices relate to movement? How well does the range of values relate to the gesture of input? How does the organization and naming of sensor values change the way we think about them? |
+| *Week 9* 03/24     | [**Open Performance 3**](https://github.com/CNMAT/Music158B_Spring23/blob/main/Lab_3.pdf) |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
 | *Week 10* 03/31    | **Spring Recess - No Class!** |
 | *Week 11* 04/07    | **Final Proposal Due** |
